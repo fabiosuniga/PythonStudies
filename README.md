@@ -30,14 +30,6 @@ Para elevar o nível da escrita do código, os exercícios focam na aplicação 
 
 ---
 
-## 🛠️ Como Navegar e Executar
-    
 Sinta-se à vontade para explorar a lógica de cada um.
-
-**Para testar qualquer script localmente:**
-1. Clone este repositório para a sua máquina.
-2. Abra o terminal na pasta raiz do projeto.
-3. Execute o comando chamando o interpretador: `python nome_do_arquivo.py`
-
 ---
 *Repositório construído com foco em evolução contínua e Clean Code. ☕✨*
